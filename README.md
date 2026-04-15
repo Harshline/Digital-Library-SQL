@@ -1,11 +1,11 @@
 # 📚 Digital Library Audit System
 
-## 📌 Project Overview
+## Project Overview
 This project is a SQL-based system designed to manage and analyze a digital library database for a community college. It helps track book loans, identify overdue returns, analyze borrowing trends, and maintain clean student records.
 
 ---
 
-## 🎯 Objectives
+## Objectives
 - Track issued and returned books
 - Identify overdue books (not returned within 14 days)
 - Analyze most popular book categories
@@ -13,7 +13,7 @@ This project is a SQL-based system designed to manage and analyze a digital libr
 
 ---
 
-## 🧱 Database Design
+## Database Design
 
 ### Tables Used:
 1. **Books**
@@ -36,7 +36,7 @@ This project is a SQL-based system designed to manage and analyze a digital libr
 
 ---
 
-## ⚙️ Features Implemented
+## Features Implemented
 
 ### 1. Overdue Book Detection
 Identifies students who have not returned books within 14 days.
